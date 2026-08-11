@@ -1,0 +1,4 @@
+host,team_api_name,wins,draws,losses,goals_for,goals_against,group_position,qualified_r32,win_pct
+Mexico,Mexico,3,0,0,6,0,1,True,100.0
+Canada,Canada,1,1,1,8,3,2,True,33.3
+USA,United States,2,0,1,8,4,1,True,66.7

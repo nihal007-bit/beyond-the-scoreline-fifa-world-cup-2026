@@ -1,0 +1,17 @@
+match_id,date,team_1,team_2,predicted_winner,confidence,is_upset
+537417,2026-06-28,South Africa,Canada,Canada,59.8,False
+537423,2026-06-29,Brazil,Japan,Brazil,52.9,False
+537415,2026-06-29,Germany,Paraguay,Germany,87.5,False
+537418,2026-06-30,Netherlands,Morocco,Netherlands,51.6,False
+537424,2026-06-30,Ivory Coast,Norway,Ivory Coast,50.7,False
+537416,2026-06-30,France,Sweden,France,83.2,False
+537425,2026-07-01,Mexico,Ecuador,Mexico,83.2,False
+537426,2026-07-01,England,Congo DR,England,80.7,False
+537422,2026-07-01,Belgium,Senegal,Belgium,82.6,False
+537421,2026-07-02,United States,Bosnia-Herzegovina,United States,85.5,False
+537420,2026-07-02,Spain,Austria,Spain,58.9,False
+537419,2026-07-02,Portugal,Croatia,Portugal,52.2,False
+537429,2026-07-03,Switzerland,Algeria,Switzerland,87.5,False
+537428,2026-07-03,Australia,Egypt,Egypt,54.6,False
+537427,2026-07-03,Argentina,Cape Verde Islands,Argentina,62.2,False
+537430,2026-07-04,Colombia,Ghana,Colombia,83.1,False
