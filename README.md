@@ -1,6 +1,7 @@
 <div align="center">
 
 # ⚽ Beyond the scoreline-FIFA world cup 2026 match prediction and analysis
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/9d2ea3f6-fce3-4788-91c2-eeeb2e049bf5" />
 
 ### Live data pipeline · Original competitiveness metric · xG benchmarking · Knockout prediction model
 
